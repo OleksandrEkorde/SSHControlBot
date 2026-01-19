@@ -1,4 +1,4 @@
-Installing a bot on a VDS server
+Installing a bot on a Server Ubuntu/Debian/
 
 # 1. Update the system
 sudo apt update
